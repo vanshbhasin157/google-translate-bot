@@ -1,0 +1,5 @@
+myvenv/
+write.py
+geckodriver
+geckodriver.log
+*.csv
